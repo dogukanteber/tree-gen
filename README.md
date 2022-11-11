@@ -1,5 +1,5 @@
 ## Description
-tree-gen is a clone of tree command which is built-in Linux OS. It prints the given directory in a more readable and understandable way.
+tree-gen is a clone of tree command. It prints the given directory in a more readable and understandable way.
 
 ![tree-gen](images/tree-gen.png)
 
